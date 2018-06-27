@@ -8,6 +8,7 @@ Feature: Free CRM Login Feature
 #Then user enters "naveenk" and "test@123"
 #Then user clicks on login button
 #Then user is on home page
+#new code for Git upload
 
 #with Examples Keyword
 Scenario Outline: Free CRM Login Test Scenario
